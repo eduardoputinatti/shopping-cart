@@ -1,4 +1,5 @@
-### Termos de acordos
+### Veja o projeto
+https://eduardoputinatti.github.io/shopping-cart/
 
 
 - [Lista de requisitos](#lista-de-requisitos)
